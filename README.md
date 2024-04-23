@@ -69,14 +69,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+# for creating form in react use formik library
+-https://formik.org/
+
+
 
 # Netflix-GPT
-
-# 1.command for creating react app
-- npx create-react-app 'projectName'
-- npx create-react-app netflix-gpt
-
-#  2.Configure Tailwind CSS
 
 # Features :
  -Login/Sign Up
@@ -94,3 +92,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 -NetflixGPT
    -Search Bar
    -Moive Suggestions
+
+# 1.command for creating react app
+- npx create-react-app 'projectName'
+- npx create-react-app netflix-gpt
+
+# 2.Configure Tailwind CSS
+
+# 3. Create a git repository in git  and run commands in terminal for pushing code into git repo
+-git remote add origin https://github.com/abhiyogesh/netflix-gpt.git
+-git branch -M main
+-git push -u origin main
+
+# rafce - it automatically generates boiler plate for component
+
+# build header
+
+# Create login form
+# Create Sign Up form
