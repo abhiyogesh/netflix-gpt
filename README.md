@@ -75,6 +75,27 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 # Netflix-GPT
+-Create React App
+-Configured Tailwind CSS
+-Header
+-Routing of App
+-Login Form
+-Sign Up form
+-Form Validation
+-useRef Hook
+-firebase setup
+  -install firebase - npm i firebase
+  -install firbase CLI - 'npm install -g firebase-tools'
+  -Firebase login - 'firebase login'
+  -Initilize Firebase - 'firebase init' then select hosting
+  -Deploy command - 'firebase deploy'
+  -Deploying our app to production
+  -Create SignUp User account
+-create redux store with userSlice
+   -npm i -D @reduxjs/toolkit
+   -npm i react-redux
+-Implemented Sign Out
+-Update Profile
 
 # Features :
  -Login/Sign Up
@@ -108,5 +129,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # build header
 
+# Routing
+
 # Create login form
+
 # Create Sign Up form
+
+# useRef Hook
+# Firebase setup
+# Create redux store
+
+# Impelmented Sign Out
+
+# Update Profile
